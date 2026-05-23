@@ -39,6 +39,9 @@
 - LinkedIn: www.linkedin.com/in/bilal-ashfaque-24feb
 - GitHub: https://github.com/BilalAsh-24
 - Discord: bilal_ashfaque
+  
+## Open Source
+[![GSSoC](https://img.shields.io/badge/GSSoC-2026-blueviolet?style=for-the-badge&logo=github)](https://gssoc.girlscript.org/profile/8055ba69-a1bd-4b5b-9156-c924b5b28b72)
 
 ## GitHub Stats
 
