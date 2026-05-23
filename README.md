@@ -39,6 +39,6 @@
 
 - ## GitHub Stats
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalAsh-24&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilalAsh-24&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAsh-24&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAsh-24&layout=compact)
