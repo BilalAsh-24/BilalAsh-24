@@ -36,3 +36,9 @@
 - LinkedIn: www.linkedin.com/in/bilal-ashfaque-24feb
 - GitHub: https://github.com/BilalAsh-24
 - Discord: bilal_ashfaque
+
+- ## GitHub Stats
+
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalAsh-24&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAsh-24&layout=compact&theme=tokyonight)
