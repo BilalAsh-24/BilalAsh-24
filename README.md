@@ -38,6 +38,7 @@
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/bilal-ashfaque-24feb
 - GitHub: https://github.com/BilalAsh-24
+- [Visit My Portfolio](https://portfolio-website-theta-swart-63.vercel.app/)
 - Discord: bilal_ashfaque
   
 ## Open Source
