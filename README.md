@@ -37,8 +37,8 @@
 - GitHub: https://github.com/BilalAsh-24
 - Discord: bilal_ashfaque
 
-- ## GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilalAsh-24&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilalAsh-24)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAsh-24&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAsh-24)
